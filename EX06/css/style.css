@@ -62,7 +62,7 @@ header a:hover{
 
 #showcase{
     min-height: 300px;
-    background: linear-gradient(to right, #3a4b5c, #1f2c3a);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/showcase.jpg') no-repeat center / cover;
     text-align: center;
     color: white;
     padding-top: 100px;
